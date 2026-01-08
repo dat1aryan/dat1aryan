@@ -12,6 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dat1aryan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dat1aryan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Aryan;Shoolini+University;Btech+Student;Artificial+Intelligence;Machine+Learning" alt="Typing SVG" />
+</p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
