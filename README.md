@@ -6,8 +6,9 @@
 <h1 align="center">👋 Hello! I’m Aryan Pankaj Kumar</h1>
 
 <p align="center">
-  <strong>CSE Student @ Shoolini University | AI/ML & DSA | Aspiring AI Engineer</strong><br>
-  <strong>🎮 Gamer • 🎸 Guitarist • 🏊 Swimmer</strong><br>
+  <strong>CSE Student @ Shoolini University | Aspiring AI Engineer</strong><br>
+  <strong>💻 Programmer • 🤖 AI/ML • 📊 DSA</strong><br>
+  <em>🎮 Gamer • 🎸 Guitarist • 🏊 Swimmer</em><br>
   <em>He/Him</em>
 </p>
 
