@@ -58,12 +58,16 @@
 
 <br>
 
-<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
-  <h2>🎯 Long-Term Goal</h2>
+<div style="border:1px solid #30363d; border-radius:14px; padding:20px; background-color:#1a1b26;">
 
-  🎯 To become a <strong>job-ready AI / GenAI engineer</strong> with strong fundamentals and  
-  real-world implementation experience.
+<h2>🎯 Long-Term Goal</h2>
+
+🚀 **To become a job-ready AI / GenAI engineer**  
+with **strong fundamentals**, **clean system design**, and  
+**real-world implementation experience**.
+
 </div>
+
 
 <br>
 
