@@ -38,30 +38,22 @@
 
 <br>
 
-<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
-  <h2>🎯 Current Focus</h2>
+## 🧭 Focus Dashboard
 
-  🔹 <strong>Perfecting core languages</strong> — Python, C, C++, JavaScript — through hands-on projects<br><br>
-  🔹 <strong>Refining machine learning concepts & algorithms</strong> while building ML projects<br><br>
-  🔹 <strong>Developing web projects</strong> using HTML, CSS, and JavaScript<br><br>
-  🔹 <strong>Writing clean, readable, and maintainable code</strong><br><br>
+| Area | Status | What I’m Doing |
+|-----|--------|----------------|
+| 💻 Programming | 🟢 Active | Python, C, C++, JavaScript through hands-on projects |
+| 🤖 Machine Learning | 🟢 Active | Refining ML concepts & algorithms while building ML projects |
+| 🌐 Web Development | 🟢 Active | HTML, CSS, JavaScript-based web projects |
+| 🧹 Code Quality | 🟢 Active | Writing clean, readable, maintainable code |
+| 📊 DSA (C++) | 🟡 Improving | Problem-solving and consistency on LeetCode |
+| 🚀 GenAI / Agents | 🔵 Planned | Agentic AI systems with RAG-enabled workflows |
+| 🧠 Deep Learning | 🔵 Planned | Advanced architectures & model design |
+| 🏁 Hackathons / CP | 🔵 Planned | Codeforces & hackathons |
 
-  <code>Depth &gt; Breadth | Quality &gt; Speed</code>
-</div>
+> **Depth > Breadth | Quality > Speed**  
+> *Long-term thinking. Steady execution.*
 
-<br>
-
-<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
-  <h2>🚀 Future Plans</h2>
-
-  🧠 Explore <strong>Deep Learning</strong> and advanced architectures<br><br>
-  🤖 Work on <strong>Agentic AI systems with RAG-enabled workflows</strong><br><br>
-  ⚡ Build <strong>small, cost-effective, and efficient AI models</strong><br><br>
-  📊 Strengthen <strong>DSA using C++</strong> and solve problems on LeetCode<br><br>
-  🏁 Participate in <strong>hackathons and competitive programming contests</strong> (e.g., Codeforces)<br><br>
-
-  <em>Long-term thinking. Steady execution.</em>
-</div>
 
 <br>
 
