@@ -1,7 +1,8 @@
 # 💫 About Me:
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Aryan;Shoolini+University;Btech+Student;Artificial+Intelligence;Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=7AA2F7&center=true&vCenter=true&lines=Aryan;Shoolini+University;BTech+Student;Artificial+Intelligence;Machine+Learning" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">👋 Hello! I’m Aryan Pankaj Kumar</h1>
 
