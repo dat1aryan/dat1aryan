@@ -3,7 +3,81 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Aryan;Shoolini+University;Btech+Student;Artificial+Intelligence;Machine+Learning" alt="Typing SVG" />
 </p>
 
- **Hello! 👋 I’m Aryan Pankaj Kumar**<br><br>**CSE Student @ Shoolini University | AI/ML & DSA | Aspiring AI Engineer | Gamer • Guitarist • Swimmer**  <br>**He/Him**<br><br>*An aspiring AI engineer focused on building strong fundamentals, writing clean code, and translating ideas into practical, scalable systems.*<br><br>---<br><br> 🧠 **About**<br><br>I’m a **Computer Science Engineering student at Shoolini University** with a sustained interest in **Artificial Intelligence and Machine Learning**.  <br>My learning approach is grounded in **strong fundamentals, hands-on experimentation, and continuous refinement**.<br><br>*I aim to build systems that are not only technically sound, but also practical, efficient, and maintainable.*<br><br>---<br><br> 🎯 **Current Focus**<br><br>- **Perfecting core languages** (*Python, C, C++, JavaScript*) through hands-on projects  <br>- **Refining machine learning concepts and algorithms** while building **ML projects**  <br>- **Developing web projects** using **HTML, CSS, and JavaScript**  <br>- **Writing clean, readable, and maintainable code**<br><br>*Depth over breadth. Quality over speed.*<br><br>---<br><br> 🚀 **Future Plans**<br><br>- Explore **Deep Learning** and advanced architectures  <br>- Work on **Agentic AI systems with RAG-enabled workflows**  <br>- Build **small, cost-effective, and efficient AI models**  <br>- Strengthen **DSA using C++** and solve problems on **LeetCode**  <br>- Participate in **hackathons and competitive programming contests** (*e.g., Codeforces*)<br><br>*Long-term thinking, steady execution.*<br><br>---<br><br> 🎯 **Long-Term Goal**<br><br>To become a **job-ready AI / GenAI engineer** with strong fundamentals and real-world implementation experience.<br><br>---<br><br>⭐ **If you find my repositories useful, I’d appreciate a star.**  <br>*Let’s connect and follow each other — collaboration is how meaningful work gets built.*<br>
+<h1 align="center">👋 Hello! I’m Aryan Pankaj Kumar</h1>
+
+<p align="center">
+  <strong>CSE Student @ Shoolini University | AI/ML & DSA | Aspiring AI Engineer</strong><br>
+  <strong>🎮 Gamer • 🎸 Guitarist • 🏊 Swimmer</strong><br>
+  <em>He/Him</em>
+</p>
+
+<p align="center">
+  <em>
+    Building strong fundamentals, writing clean code, and translating ideas into
+    practical, scalable systems.
+  </em>
+</p>
+
+<br>
+
+<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
+  <h2>🧠 About</h2>
+
+  🎓 I’m a <strong>Computer Science Engineering student at Shoolini University</strong> with a sustained interest in  
+  <strong>Artificial Intelligence and Machine Learning</strong>.<br><br>
+
+  🛠️ My learning approach is grounded in <strong>strong fundamentals</strong>,  
+  <strong>hands-on experimentation</strong>, and <strong>continuous refinement</strong>.<br><br>
+
+  <em>
+    I aim to build systems that are not only technically sound, but also practical,
+    efficient, and maintainable.
+  </em>
+</div>
+
+<br>
+
+<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
+  <h2>🎯 Current Focus</h2>
+
+  🔹 <strong>Perfecting core languages</strong> — Python, C, C++, JavaScript — through hands-on projects<br><br>
+  🔹 <strong>Refining machine learning concepts & algorithms</strong> while building ML projects<br><br>
+  🔹 <strong>Developing web projects</strong> using HTML, CSS, and JavaScript<br><br>
+  🔹 <strong>Writing clean, readable, and maintainable code</strong><br><br>
+
+  <code>Depth &gt; Breadth | Quality &gt; Speed</code>
+</div>
+
+<br>
+
+<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
+  <h2>🚀 Future Plans</h2>
+
+  🧠 Explore <strong>Deep Learning</strong> and advanced architectures<br><br>
+  🤖 Work on <strong>Agentic AI systems with RAG-enabled workflows</strong><br><br>
+  ⚡ Build <strong>small, cost-effective, and efficient AI models</strong><br><br>
+  📊 Strengthen <strong>DSA using C++</strong> and solve problems on LeetCode<br><br>
+  🏁 Participate in <strong>hackathons and competitive programming contests</strong> (e.g., Codeforces)<br><br>
+
+  <em>Long-term thinking. Steady execution.</em>
+</div>
+
+<br>
+
+<div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
+  <h2>🎯 Long-Term Goal</h2>
+
+  🎯 To become a <strong>job-ready AI / GenAI engineer</strong> with strong fundamentals and  
+  real-world implementation experience.
+</div>
+
+<br>
+
+<div align="center">
+  ⭐ <strong>If you find my repositories useful, I’d appreciate a star.</strong><br>
+  <em>Let’s connect and collaborate — meaningful work is built together.</em>
+</div>
+
 
 
 ## 🌐 Socials:
