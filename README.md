@@ -122,3 +122,7 @@
 
 ---
 
+<!--
+README designed and maintained by Aryan Pankaj Kumar.
+If you’re inspired, feel free to adapt — don’t copy verbatim.
+-->
