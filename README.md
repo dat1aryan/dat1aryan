@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B5B5&height=170&section=header&text=Welcome+To+Aryan's+space!&fontSize=50&fontColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=170&section=header&text=Welcome+To+Aryan's+Space!&fontSize=50&fontColor=c0caf5&animation=fadeIn" width="100%" />
 </p>
 
 # 💫 About Me:
@@ -122,13 +122,11 @@
 ---
 
 ## 🌐 Neural Commit Map
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dat1aryan&theme=tokyonight)](https://github.com/dat1aryan/github-readme-activity-graph)
-
----
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dat1aryan&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=2ac3de&area=true&hide_border=true)](https://github.com/dat1aryan/github-readme-activity-graph)
 
 ## 👁️ Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dat1aryan&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=dat1aryan&label=Visitors&color=7aa2f7&style=flat" alt="Visitors" />
 </p>
 
 ### ✍️ Random Dev Quote
@@ -146,7 +144,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 ~~~
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=170&section=footer" width="100%" />
 </p>
 
 <!--
