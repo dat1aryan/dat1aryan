@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B5B5&height=170&section=header&text=Welcome+To+Aryan's+space!&fontSize=50&fontColor=000000" width="100%" />
+</p>
+
 # 💫 About Me:
 
 <p align="center">
@@ -117,11 +121,33 @@
 
 ---
 
+## 🌐 Neural Commit Map
+[![Pranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mprshark&theme=merko)](https://github.com/mprshark/github-readme-activity-graph)
+
+---
+
+## 👁️ Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mprshark&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
+</p>
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+## 📄 License
+~~~text
+MIT License
+Copyright (c) 2025
+Author: Aryan Pankaj Kumar (@dat1aryan)
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+~~~
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer" width="100%" />
+</p>
 
 <!--
 README designed and maintained by Aryan Pankaj Kumar.
