@@ -122,13 +122,13 @@
 ---
 
 ## 🌐 Neural Commit Map
-[![Pranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mprshark&theme=merko)](https://github.com/mprshark/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dat1aryan&theme=tokyonight)](https://github.com/dat1aryan/github-readme-activity-graph)
 
 ---
 
 ## 👁️ Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mprshark&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=dat1aryan&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </p>
 
 ### ✍️ Random Dev Quote
