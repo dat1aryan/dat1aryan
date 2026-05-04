@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=170&section=header&text=Welcome+To+Aryan's+Space!&fontSize=50&fontColor=c0caf5&animation=fadeIn" width="100%" />
 </p>
 
-# 💫 About Me:
+# About Me:
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=7AA2F7&center=true&vCenter=true&lines=Aryan;Shoolini+University;BTech+Student;Artificial+Intelligence;Machine+Learning" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 <br>
 
 <div style="border:1px solid #30363d; border-radius:14px; padding:18px; background-color:#1a1b26;">
-  <h2>🧠 About</h2>
+  <h2> About</h2>
 
   🎓 I’m a <strong>Computer Science Engineering student at Shoolini University</strong> with a sustained interest in  
   <strong>Artificial Intelligence and Machine Learning</strong>.<br><br>
