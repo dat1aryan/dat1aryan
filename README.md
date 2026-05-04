@@ -138,7 +138,7 @@
 ## 📄 License
 ~~~text
 MIT License
-Copyright (c) 2025
+Copyright (c) 2026
 Author: Aryan Pankaj Kumar (@dat1aryan)
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ~~~
