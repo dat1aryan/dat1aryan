@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=170&section=header&text=Welcome+To+Aryan's+Space!&fontSize=50&fontColor=c0caf5&animation=fadeIn" width="100%" />
 </p>
 
+<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://i.redd.it/8jcic9myngmb1.gif">
+
 # About Me:
 
 <p align="center">
