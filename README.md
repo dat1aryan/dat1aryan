@@ -117,11 +117,6 @@
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=dat1aryan&theme=tokyonight)
 
-![GitHub Stats](https://www.githero.dev/api/widget/dat1aryan?style=card&theme=dark)
-
-![Snake animation](https://raw.githubusercontent.com/dat1aryan/dat1aryan/output/github-contribution-grid-snake-dark.svg)
----
-
 ## 🌐 Neural Commit Map
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dat1aryan&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=2ac3de&area=true&hide_border=true)](https://github.com/dat1aryan/github-readme-activity-graph)
 
