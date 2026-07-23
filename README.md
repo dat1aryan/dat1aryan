@@ -115,12 +115,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dat1aryan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://ghstats.dev/api/card?username=dat1aryan&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=dat1aryan&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://www.githero.dev/api/widget/dat1aryan?style=card&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dat1aryan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![Snake animation](https://raw.githubusercontent.com/dat1aryan/dat1aryan/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 🌐 Neural Commit Map
