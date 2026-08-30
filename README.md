@@ -12,7 +12,7 @@
 
 ---
 
-## 📄 License
+
 ~~~text
 MIT License
 Copyright (c) 2026
