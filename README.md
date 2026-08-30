@@ -26,10 +26,6 @@ Author: Aryan Pankaj Kumar (@dat1aryan)
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ~~~
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=170&section=footer" width="100%" />
-</p>
-
 <!--
 README designed and maintained by Aryan Pankaj Kumar.
 If you’re inspired, feel free to adapt — don’t copy verbatim.
