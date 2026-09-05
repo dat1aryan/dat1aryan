@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/tech-stack.png" alt="Tech Stack" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanpankajkumar/">
