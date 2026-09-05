@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/tech-stack.png" alt="Tech Stack" width="100%">
+  <img src="./assets/readme.png" alt="readme" width="100%">
 </p>
 
 <p align="center">
